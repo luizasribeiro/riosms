@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Córrego Ribeirão.kml</name>
+	<Schema name="hid_trecho_drenagem_l" id="S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+		<SimpleField type="string" name="nome"><displayName>&lt;b&gt;nome&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema>
+	<Style id="style110">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style115">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="style130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style115</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Córrego Ribeirão</name>
+		<styleUrl>#style130</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+				<SimpleData name="nome">Córrego Ribeirão</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				-54.36895161999998,-20.45194100399991,0 -54.37298885500001,-20.4508069509999,0 -54.37682265800002,-20.45253216299988,0 -54.38103984199999,-20.45291554299999,0 -54.3868863929999,-20.45444906499989,0 -54.389761746,-20.4540656849999,0 -54.39426646499999,-20.4557908959999,0 -54.40011301600001,-20.45569505099999,0 -54.405480341,-20.45559920599991,0 -54.41123104699989,-20.45502413599999,0 -54.417844358,-20.45627012200001,0 -54.42369090899998,-20.45703688200002,0 -54.428003938,-20.45818702400002,0 -54.4324128119999,-20.46096653099988,0 -54.4369175319999,-20.463266814,0 -54.43785635899999,-20.4654574109999,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

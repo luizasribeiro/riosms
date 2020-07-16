@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Córrego Pontal.kml</name>
+	<Schema name="hid_trecho_drenagem_l" id="S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+		<SimpleField type="string" name="nome"><displayName>&lt;b&gt;nome&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema>
+	<Style id="style110">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style115">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="style130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style115</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Córrego Pontal</name>
+		<open>1</open>
+		<styleUrl>#style130</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+				<SimpleData name="nome">Córrego Pontal</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				-54.43785635899999,-20.4654574109999,0 -54.43864274299988,-20.46729230700002,0 -54.43884162799999,-20.47129171800001,0 -54.443339153,-20.47706850700001,0 -54.44813140699988,-20.48042308499989,0 -54.45129429599999,-20.483010903,0 -54.45522394400002,-20.48569456499998,0 -54.45867436799989,-20.48770731199991,0 -54.4651918339999,-20.49173280600001,0 -54.47027162399998,-20.49508738399991,0 -54.474776343,-20.49547076499992,0 -54.4793769079999,-20.49499153900002,0 -54.48378578200001,-20.49508738399991,0 -54.48771543100001,-20.493649708,0 -54.4905907839999,-20.4902951299999,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

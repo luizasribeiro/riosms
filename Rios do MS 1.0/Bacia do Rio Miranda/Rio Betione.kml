@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Rio Betione.kml</name>
+	<Style id="LineStyle0020000">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="LineStyle002200">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="LineStyle0021000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#LineStyle002200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#LineStyle0020000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="ID_01009">
+		<name>Rio Betiono</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rio Betiono</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>NOME</td>
+
+<td>Rio Betiono</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+		<styleUrl>#LineStyle0021000</styleUrl>
+		<MultiGeometry>
+			<LineString>
+				<coordinates>
+					-56.404864,-20.387373,0 -56.404862,-20.387374,0 -56.402811,-20.390152,0 -56.40628,-20.391622,0 -56.408337,-20.399912,0 -56.427209,-20.40726,0 -56.427797,-20.411787,0 -56.43591,-20.412728,0 -56.44519900000001,-20.410082,0 -56.451137,-20.412258,0 -56.450961,-20.415961,0 -56.45395900000001,-20.418372,0 -56.45225400000001,-20.422017,0 -56.453782,-20.425662,0 -56.47053800000001,-20.435539,0 -56.473419,-20.444593,0 -56.484001,-20.453411,0 -56.489821,-20.451236,0 -56.493231,-20.452588,0 -56.4967,-20.459702,0 -56.512867,-20.468991,0 -56.525213,-20.466698,0 -56.52821200000001,-20.473988,0 -56.539558,-20.477809,0 -56.54108700000001,-20.48116,0 -56.542557,-20.478809,0 -56.54596599999999,-20.483453,0 -56.547671,-20.486922,0 -56.545437,-20.495447,0 -56.562016,-20.499503,0 -56.565191,-20.503383,0 -56.570012,-20.502913,0 -56.569306,-20.507969,0 -56.571599,-20.507616,0 -56.571834,-20.511202,0 -56.576126,-20.515729,0 -56.57395099999999,-20.52637,0 -56.577596,-20.539598,0 -56.581123,-20.540598,0 -56.581711,-20.538129,0 -56.587237,-20.536894,0 -56.58864799999999,-20.540657,0 -56.59247,-20.540951,0 -56.590706,-20.543773,0 -56.601406,-20.548829,0 -56.610695,-20.546359,0 -56.617574,-20.556765,0 -56.620925,-20.558059,0 -56.633447,-20.55118,0 -56.636798,-20.554884,0 -56.638797,-20.563938,0 -56.634564,-20.572874,0 -56.638562,-20.57599,0 -56.645911,-20.573756,0 -56.649379,-20.576872,0 -56.648439,-20.58034,0 -56.65037899999999,-20.582516,0 -56.643089,-20.596508,0 -56.651966,-20.618966,0 -56.65461199999999,-20.629078,0 -56.653142,-20.634487,0 -56.65731600000001,-20.640131,0 -56.653789,-20.644834,0 -56.652436,-20.652241,0 -56.65461199999999,-20.65718,0 -56.64902699999999,-20.664352,0 -56.653612,-20.672936,0 -56.655435,-20.686105,0 -56.653553,-20.688398,0 -56.658433,-20.694571,0 -56.683302,-20.696922,0 -56.690533,-20.693101,0 
+				</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>

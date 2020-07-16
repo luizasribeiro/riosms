@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Córrego Perdiz.kml</name>
+	<Schema name="hid_trecho_drenagem_l" id="S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+		<SimpleField type="string" name="nome"><displayName>&lt;b&gt;nome&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema>
+	<StyleMap id="style130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style115</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style115">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff5500</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style110">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff5500</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Córrego Perdiz</name>
+		<open>1</open>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.26129504799999,-20.39475413599998,0 -54.25877862899989,-20.391768445,0 -54.2561189269999,-20.38939627900001,0 -54.25446559999989,-20.3870241129999,0 -54.25274038799989,-20.3849394819999,0 -54.24986503499999,-20.383286154,0 -54.2473491009999,-20.38127340700001,0 -54.245048819,-20.378326171,0 -54.242604769,-20.3755945849999,0 -54.23922622999999,-20.37408502499988,0 -54.237069715,-20.37192851099999,0 -54.235703923,-20.36948446100001,0 -54.2334036399999,-20.36754359799989,0 -54.232612918,-20.36481201199999,0 -54.23268480199992,-20.36186477599988,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.4011359679999,-20.26105222499999,0 -54.40277779699989,-20.2588393259999,0 -54.40456239199989,-20.25555567000001,0 -54.40577591699999,-20.25270031699989,0 -54.407846048,-20.24998773199999,0 -54.41127247200001,-20.247703449,0 -54.41384228999991,-20.246061621,0 -54.417839784,-20.24434840899988,0 -54.42090928900003,-20.24256381299988,0 -54.424692632,-20.24163582400002,0 -54.4277621369999,-20.24177859100002,0 -54.43318730799998,-20.24192135899988,0 -54.43732757,-20.24042229799989,0 -54.44046845799991,-20.23999399499998,0 -54.44368073,-20.238566319,0 -54.4471785379999,-20.23806663200001,0 -54.450676346,-20.2374955609999,0 -54.45374585,-20.23728141,0 -54.45688673900001,-20.2369958749999,0 -54.45974209199991,-20.23628203600001,0 -54.4626688289999,-20.2379952479999,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.4011359679999,-20.26105222499999,0 -54.40283380399999,-20.26277869899999,0 -54.40628422700001,-20.26471956199999,0 -54.4103816049999,-20.264000724,0 -54.4128256549999,-20.2659415869999,0 -54.41670738100001,-20.265725935,0 -54.42008592,-20.26565405100001,0 -54.42224243500001,-20.26795433400001,0 -54.4246864849999,-20.27075780299999,0 -54.42792125699999,-20.27133287299989,0 -54.43230616999989,-20.27133287299989,0 -54.43654731500001,-20.271764176,0 -54.440069622,-20.27054215099999,0 -54.44323251000001,-20.26910447499989,0 -54.44603597899999,-20.26881693900001,0 -54.44934263499989,-20.26874505599988,0 -54.45279305799991,-20.267235495,0 -54.45631536600001,-20.26701984399988,0 -54.459262602,-20.2659415869999,0 -54.4622817229999,-20.26471956199999,0 -54.464438237,-20.26342565300002,0 -54.46796054399991,-20.263066234,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.38842964700001,-20.26711985,0 -54.39082920600001,-20.2685294039999,0 -54.39305760400001,-20.27154852500001,0 -54.39542976999999,-20.27420822599991,0 -54.39751440099999,-20.276939811,0 -54.399095845,-20.27924009299988,0 -54.40161177899989,-20.280749654,0 -54.40348075799988,-20.284343845,0 -54.40427148,-20.28750673299989,0 -54.40556538899988,-20.2906696209999,0 -54.40599669200001,-20.29447946299998,0 -54.40836885799999,-20.29620467500002,0 -54.4112442109999,-20.29706728100001,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.3413758,-20.2982262959999,0 -54.34302912799999,-20.2995920889999,0 -54.346192016,-20.30031092699988,0 -54.3493549039999,-20.30189237100002,0 -54.35323663,-20.30275497699989,0 -54.35639951799988,-20.30275497699989,0 -54.35898733599999,-20.30383323399999,0 -54.36193457300001,-20.30476772399989,0 -54.36567253100001,-20.30749930900001,0 -54.368260349,-20.310230894,0 -54.37142323699991,-20.31130915200001,0 -54.37350786799989,-20.31202798999991,0 -54.3752330789999,-20.31396885299989,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.3413758,-20.2982262959999,0 -54.34123203199992,-20.30138918400001,0 -54.34130391600001,-20.30426453699991,0 -54.34022565899991,-20.30757119299988,0 -54.34022565899991,-20.31087784900001,0 -54.34108826499989,-20.31303436299991,0 -54.3414476839999,-20.31605348400001,0 -54.34281347599989,-20.31799434699998,0 -54.3435323149999,-20.32086969999988,0 -54.3438198499999,-20.3237450519999,0 -54.3450418749999,-20.3254702639999,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.33382101799998,-20.29103343299991,0 -54.33655958400001,-20.291397333,0 -54.3381410279999,-20.29326631299988,0 -54.33979435600001,-20.29563847899991,0 -54.3413758,-20.2982262959999,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.28670769099988,-20.34021689100002,0 -54.289411785,-20.34183581400001,0 -54.29523437499989,-20.34183581400001,0 -54.300841313,-20.341404511,0 -54.3045073879999,-20.33975118299999,0 -54.30810157900002,-20.340613789,0 -54.31263025899988,-20.34068567299992,0 -54.314930541,-20.33982306699989,0 -54.31579314699999,-20.3383853899999,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Água Enterrada</name>
+			<open>1</open>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome">Córrego Água Enterrada</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.27392998499989,-20.37126885699998,0 -54.27772504599988,-20.37022682700002,0 -54.28204248899991,-20.3715552699999,0 -54.28635993099991,-20.37147224300001,0 -54.290926457,-20.37014379899988,0 -54.29466270599989,-20.36823416100001,0 -54.297651704,-20.36781902199991,0 -54.301055842,-20.36649057799999,0 -54.30412786799999,-20.36624149499989,0 -54.30778108899988,-20.36549424500001,0 -54.3120155029999,-20.36483002299999,0 -54.316582029,-20.36399974599992,0 -54.319986167,-20.3639167179999,0 -54.32405452599991,-20.36408277399991,0 -54.32704352499999,-20.363833691,0 -54.33210821700001,-20.36150891400002,0 -54.335263271,-20.35993138700001,0 -54.33725593699999,-20.35677633300001,0 -54.3381692419999,-20.35353825099999,0 -54.340244935,-20.3509643909999,0 -54.34256971199989,-20.3475602529999,0 -54.3458077939999,-20.34448822699989,0 -54.347136238,-20.34166528399989,0 -54.34738532099991,-20.339423535,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego da Divisa</name>
+			<open>1</open>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome">Córrego da Divisa</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.26507839100001,-20.3894717329999,0 -54.26647019699989,-20.39169656099989,0 -54.27028003999991,-20.391193374,0 -54.2732272769999,-20.39155279299999,0 -54.27552755900002,-20.39284670199989,0 -54.27761219,-20.392631051,0 -54.2806313099999,-20.39363742399999,0 -54.28494433899989,-20.39428437899988,0 -54.288682298,-20.39557828700001,0 -54.29249213999999,-20.3960095899999,0 -54.29673328599989,-20.3961533579999,0 -54.30018370899999,-20.39644089300002,0 -54.30456862200002,-20.39644089300002,0 -54.30895353499989,-20.39694408,0 -54.31369786700001,-20.396584661,0 -54.3175795929999,-20.3961533579999,0 -54.32239580899989,-20.39593770599991,0 -54.326493187,-20.39550640300001,0 -54.32951230700001,-20.39435626199999,0 -54.333753453,-20.39471568100002,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.254799119,-20.40631831699989,0 -54.25755660399988,-20.40557013799999,0 -54.26093514299999,-20.40693593099999,0 -54.26373861199988,-20.40830172299999,0 -54.26647019699989,-20.409523748,0 -54.269201783,-20.41110519200002,0 -54.27243655500002,-20.41275852000002,0 -54.27538379099999,-20.41433996399999,0 -54.27912174999988,-20.41441184799991,0 -54.2815658,-20.41613706,0 -54.28278782499999,-20.41764662000001,0 -54.28321912800001,-20.41994690199991,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.2422355649999,-20.4173828099999,0 -54.24389867799989,-20.419228064,0 -54.247277218,-20.42116892699988,0 -54.24871489399991,-20.42289413899992,0 -54.251446479,-20.42289413899992,0 -54.25317169100001,-20.42461934999989,0 -54.25518443799999,-20.425697608,0 -54.25748472000001,-20.427782239,0 -54.2585629769999,-20.429866869,0 -54.26115079499991,-20.43187961599989,0 -54.26230093599999,-20.4341080149999,0 -54.264313683,-20.43648018100001,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.23281289999989,-20.42673409199989,0 -54.23462566500001,-20.4289323799999,0 -54.23692594799999,-20.43044194000001,0 -54.23886681100001,-20.43302975699989,0 -54.24167027999991,-20.43475496900001,0 -54.24339549099991,-20.43604887800002,0 -54.2457676569999,-20.4380616249999,0 -54.24806793999988,-20.438852347,0 -54.25022445399999,-20.440218139,0 -54.253818645,-20.44086509399989,0 -54.25770037099988,-20.44050567499989,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Perdiz</name>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome">Córrego Perdiz</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.38842964700001,-20.26711985,0 -54.39128499999999,-20.26683431499998,0 -54.39414035299999,-20.2654066389999,0 -54.39621048399989,-20.26369342699999,0 -54.398566151,-20.263479275,0 -54.4011359679999,-20.26105222499999,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Perdiz</name>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome">Córrego Perdiz</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.33382101799998,-20.29103343299991,0 -54.337176058,-20.28910606999989,0 -54.34038832999988,-20.28817808,0 -54.34402890499999,-20.2867504029999,0 -54.346812875,-20.28460888899999,0 -54.349596844,-20.28296706,0 -54.35252358099999,-20.280682778,0 -54.355164783,-20.27896956599988,0 -54.35859120599999,-20.27739912199999,0 -54.36230316599988,-20.27661389999999,0 -54.36480159999999,-20.27440100099989,0 -54.36722865000001,-20.27261640500002,0 -54.36979846799989,-20.27218810200001,0 -54.37193998200001,-20.27026073900001,0 -54.375223639,-20.26883306199989,0 -54.378007608,-20.26833337599989,0 -54.38029188999999,-20.26740538600001,0 -54.38300447599989,-20.267619537,0 -54.38571706099999,-20.26669154699992,0 -54.38842964700001,-20.26711985,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Perdiz</name>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome">Córrego Perdiz</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.28670769099988,-20.34021689100002,0 -54.2884922869999,-20.33871783099989,0 -54.28863505399988,-20.3354341749999,0 -54.29027688199989,-20.33207913500002,0 -54.2904196499999,-20.3293665489999,0 -54.291990094,-20.32701088299999,0 -54.29291808400001,-20.323798611,0 -54.29448852799991,-20.3207291059999,0 -54.29620173999999,-20.31765960099989,0 -54.29705834600001,-20.3140904099999,0 -54.298700174,-20.31123505700001,0 -54.30155552699987,-20.30966461199989,0 -54.3033401229999,-20.307808633,0 -54.306481011,-20.3049532799999,0 -54.3091935969999,-20.302097927,0 -54.31233448500001,-20.29995641200001,0 -54.31476153599991,-20.29895703799999,0 -54.315975061,-20.295530614,0 -54.31840211099999,-20.29338909899999,0 -54.3226137569999,-20.29267526099988,0 -54.32653986700001,-20.29146173600001,0 -54.33096566500002,-20.29060512999998,0 -54.33382101799998,-20.29103343299991,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Perdiz</name>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome">Córrego Perdiz</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.27392998499989,-20.37126885699998,0 -54.27371583399999,-20.36862765500002,0 -54.274001369,-20.36512984699991,0 -54.27514351100002,-20.361774807,0 -54.27721364199989,-20.358705303,0 -54.27899823699989,-20.356135485,0 -54.28042591400001,-20.35335151600001,0 -54.282710196,-20.35206660699989,0 -54.283852338,-20.34956817299999,0 -54.28320988299999,-20.34614174899999,0 -54.284994479,-20.34328639599991,0 -54.28670769099988,-20.34021689100002,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Perdiz</name>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome">Córrego Perdiz</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.26507839100001,-20.3894717329999,0 -54.26614914799999,-20.38625946100001,0 -54.26679160299988,-20.38283303700002,0 -54.26914726900001,-20.37983491599991,0 -54.27057494599999,-20.37605157299991,0 -54.27307337999999,-20.37348175499989,0 -54.27392998499989,-20.37126885699998,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Perdiz</name>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome">Córrego Perdiz</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.26129504799999,-20.39475413599998,0 -54.262794108,-20.391541864,0 -54.26507839100001,-20.3894717329999,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Perdiz</name>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome">Córrego Perdiz</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.254799119,-20.40631831699989,0 -54.25651233100001,-20.40374849899999,0 -54.25729755299988,-20.400536227,0 -54.25872523000001,-20.39739533799999,0 -54.26129504799999,-20.39475413599998,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Perdiz</name>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome">Córrego Perdiz</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.2422355649999,-20.4173828099999,0 -54.24487676699989,-20.41474160900001,0 -54.2471610499999,-20.41202902299989,0 -54.24994501899987,-20.4100302759999,0 -54.25201515000001,-20.40796014499988,0 -54.254799119,-20.40631831699989,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Perdiz</name>
+			<open>1</open>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.23281289999989,-20.42673409199989,0 -54.23502579900001,-20.425520567,0 -54.235525486,-20.4226652139999,0 -54.23859499000001,-20.42223691099999,0 -54.2395229799999,-20.41952432499989,0 -54.2422355649999,-20.4173828099999,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Perdiz</name>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome">Córrego Perdiz</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.18491697100001,-20.46622490800001,0 -54.18684171399999,-20.462997077,0 -54.188340775,-20.46064140999992,0 -54.190268138,-20.459642037,0 -54.19012537,-20.45750052200001,0 -54.1924810369999,-20.455858694,0 -54.194551168,-20.4537885629999,0 -54.1975492889999,-20.4521467349999,0 -54.20133263199991,-20.45021937099989,0 -54.2042593689999,-20.44829200800001,0 -54.20725748900001,-20.4456508059999,0 -54.20932761999999,-20.443223756,0 -54.21253989300001,-20.44179607999998,0 -54.215609397,-20.44029701900001,0 -54.21860751799991,-20.441010858,0 -54.2210345679999,-20.4390834939999,0 -54.2220339419999,-20.43644229200001,0 -54.22410407300001,-20.434300778,0 -54.22703081000001,-20.43415801,0 -54.22888678899989,-20.43051743500002,0 -54.23209906200001,-20.42944667699991,0 -54.23281289999989,-20.42673409199989,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

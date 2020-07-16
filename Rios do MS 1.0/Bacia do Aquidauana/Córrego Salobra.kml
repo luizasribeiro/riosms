@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Córrego Salobra.kml</name>
+	<StyleMap id="LineStyle006">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#LineStyle0061</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#LineStyle0060</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="LineStyle0060">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="LineStyle0061">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Placemark id="ID_00256">
+		<name>Córrego Salobra</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Córrego Salobra</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>NOME</td>
+
+<td>Córrego Salobra</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+		<styleUrl>#LineStyle006</styleUrl>
+		<MultiGeometry>
+			<LineString>
+				<coordinates>
+					-54.888418,-20.43486,0 -54.89420199999999,-20.430487,0 -54.897305,-20.430205,0 -54.899704,-20.428371,0 -54.898928,-20.422587,0 -54.903583,-20.419624,0 -54.907604,-20.414264,0 -54.909015,-20.409044,0 -54.915927,-20.401637,0 -54.91684400000001,-20.39677,0 -54.918749,-20.39536,0 -54.922135,-20.38619,0 -54.926367,-20.384285,0 -54.929047,-20.380123,0 -54.93997999999999,-20.373987,0 -54.94527099999999,-20.367215,0 -54.950561,-20.364605,0 -54.963681,-20.362419,0 -54.96748999999999,-20.359033,0 -54.969465,-20.353178,0 -54.97158100000001,-20.350709,0 -54.974896,-20.349651,0 -54.98166799999999,-20.349722,0 -54.983573,-20.347747,0 -54.989639,-20.348664,0 -55.001277,-20.344079,0 -55.00452200000001,-20.34429,0 -55.010588,-20.346618,0 -55.01453800000001,-20.346477,0 -55.01637199999999,-20.344996,0 -55.031397,-20.346124,0 -55.0436,-20.35346,0 -55.048749,-20.349369,0 -55.064902,-20.344008,0 -55.068641,-20.344008,0 -55.07287299999999,-20.340834,0 -55.075835,-20.341116,0 -55.07901,-20.339353,0 -55.086063,-20.338224,0 -55.094105,-20.332158,0 -55.097279,-20.331241,0 -55.104403,-20.332229,0 -55.123166,-20.330606,0 -55.125282,-20.332511,0 -55.13459300000001,-20.334486,0 -55.137626,-20.334627,0 -55.139883,-20.33244,0 -55.142846,-20.33244,0 -55.151028,-20.336884,0 -55.153709,-20.339212,0 -55.161044,-20.338789,0 -55.18404,-20.330254,0 -55.187708,-20.326162,0 -55.199699,-20.322777,0 -55.206964,-20.324328,0 -55.20858700000001,-20.325951,0 -55.215284,-20.326622,0 -55.22213000000001,-20.327996,0 -55.228478,-20.327079,0 -55.237789,-20.323341,0 -55.242092,-20.326021,0 -55.247105,-20.324113,0 
+				</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>

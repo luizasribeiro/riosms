@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Rio Tarumã.kml</name>
+	<Style id="LineStyle0020000">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="LineStyle002200">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="LineStyle0021000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#LineStyle002200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#LineStyle0020000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="ID_06130">
+		<name>Rio Tarumã</name>
+		<open>1</open>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rio Tarumã</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>NOME</td>
+
+<td>Rio Tarumã</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+		<styleUrl>#LineStyle0021000</styleUrl>
+		<MultiGeometry>
+			<LineString>
+				<coordinates>
+					-57.913969,-21.590238,0 -57.91184699999999,-21.582631,0 -57.901872,-21.587062,0 -57.90267,-21.583775,0 -57.898989,-21.584451,0 -57.900842,-21.581377,0 -57.894677,-21.577635,0 -57.897071,-21.577021,0 -57.89716599999999,-21.573354,0 -57.891855,-21.575298,0 -57.888738,-21.572634,0 -57.894586,-21.572383,0 -57.890887,-21.57016,0 -57.895198,-21.567237,0 -57.892899,-21.564295,0 -57.889327,-21.563603,0 -57.890229,-21.567756,0 -57.88723600000001,-21.566021,0 -57.884221,-21.570469,0 -57.88255500000001,-21.565827,0 -57.885717,-21.566303,0 -57.88669500000001,-21.563726,0 -57.87903000000001,-21.563275,0 -57.87606299999999,-21.565916,0 -57.87445799999999,-21.561548,0 -57.877097,-21.562683,0 -57.87835700000001,-21.558354,0 -57.87262299999999,-21.558001,0 -57.86903,-21.553643,0 -57.872241,-21.552641,0 -57.872138,-21.545365,0 -57.862106,-21.539946,0 -57.844829,-21.54567,0 -57.838802,-21.545207,0 -57.801705,-21.526915,0 -57.78739,-21.524581,0 -57.782316,-21.527012,0 -57.772421,-21.524651,0 -57.759213,-21.503427,0 -57.748666,-21.499152,0 -57.741659,-21.500825,0 -57.727448,-21.496197,0 -57.722503,-21.48406,0 -57.71739099999999,-21.479899,0 -57.702395,-21.45501,0 -57.692594,-21.446461,0 -57.68940900000001,-21.440401,0 -57.673424,-21.429286,0 -57.67041799999999,-21.423553,0 -57.663459,-21.422486,0 -57.652352,-21.408304,0 -57.644569,-21.405762,0 -57.62481100000001,-21.391552,0 -57.617071,-21.392051,0 -57.61195100000001,-21.399703,0 -57.60059,-21.405096,0 -57.60014399999999,-21.410625,0 -57.596683,-21.412085,0 -57.595456,-21.421301,0 -57.586967,-21.430631,0 -57.579072,-21.448601,0 -57.571132,-21.454945,0 -57.56816199999999,-21.462632,0 -57.56367,-21.464226,0 
+				</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>

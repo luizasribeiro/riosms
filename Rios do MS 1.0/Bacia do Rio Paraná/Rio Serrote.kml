@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Rio Serrote.kml</name>
+	<StyleMap id="LineStyle0021">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#LineStyle002</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#LineStyle0020</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="LineStyle002">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="LineStyle0020">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Placemark id="ID_02474">
+		<name>Rio Serrote</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rio Serrote</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>NOME</td>
+
+<td>Rio Serrote</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+		<styleUrl>#LineStyle0021</styleUrl>
+		<MultiGeometry>
+			<LineString>
+				<coordinates>
+					-54.70803,-21.426652,0 -54.708874,-21.422898,0 -54.714215,-21.424046,0 -54.720065,-21.42114,0 -54.72154499999999,-21.416202,0 -54.732705,-21.416354,0 -54.737798,-21.412898,0 -54.74226,-21.400594,0 -54.74870299999999,-21.396381,0 -54.749485,-21.391135,0 -54.76085700000001,-21.389794,0 -54.768344,-21.38398,0 -54.77257599999999,-21.369821,0 -54.784346,-21.367408,0 -54.78585,-21.360618,0 -54.784049,-21.349007,0 -54.796467,-21.345706,0 -54.80184899999999,-21.348225,0 -54.819325,-21.339254,0 -54.82916,-21.342428,0 -54.836346,-21.352436,0 -54.844753,-21.348633,0 -54.867466,-21.334556,0 -54.870661,-21.329639,0 -54.870241,-21.323421,0 -54.877743,-21.315929,0 -54.880889,-21.301035,0 -54.892176,-21.296279,0 -54.897981,-21.300414,0 -54.91224799999999,-21.296708,0 -54.914675,-21.29184,0 -54.928305,-21.283466,0 -54.933305,-21.276837,0 -54.943716,-21.275292,0 -54.961975,-21.263686,0 -54.972274,-21.260883,0 -54.98274499999999,-21.250077,0 -54.985085,-21.24204,0 -54.995985,-21.232313,0 -54.997826,-21.223374,0 -55.02220199999999,-21.210937,0 -55.029933,-21.204456,0 -55.03576999999999,-21.1918,0 -55.052898,-21.182679,0 -55.057282,-21.173768,0 -55.071165,-21.16407,0 -55.071578,-21.161685,0 -55.092064,-21.158393,0 -55.10615099999999,-21.147379,0 -55.118371,-21.142975,0 -55.120094,-21.137617,0 -55.136602,-21.12621,0 -55.14811700000001,-21.126993,0 -55.154061,-21.130344,0 -55.161382,-21.129319,0 -55.188152,-21.117927,0 -55.20858599999999,-21.118264,0 
+				</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>

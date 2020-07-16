@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Córrego Mateira.kml</name>
+	<Schema name="hid_trecho_drenagem_l" id="S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII6534">
+		<SimpleField type="string" name="nome"><displayName>&lt;b&gt;nome&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema>
+	<Style id="style11041518">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="style130415198">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style1154151608</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style11041518</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style1154151608">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Córrego Mateira</name>
+		<open>1</open>
+		<Placemark>
+			<name>Córrego Mateira</name>
+			<open>1</open>
+			<styleUrl>#style130415198</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII6534">
+					<SimpleData name="nome">Córrego Mateira</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.782132896,-20.175114729,0 -54.780958561,-20.17780839099991,0 -54.77967365199998,-20.18094927999991,0 -54.77696106600002,-20.18166311799999,0 -54.77467678400001,-20.18337632999991,0 -54.77289218800001,-20.18630306699998,0 -54.7721783499999,-20.189229804,0 -54.769322997,-20.191157167,0 -54.766110724,-20.19022917699991,0 -54.763255371,-20.19151408599989,0 -54.759543412,-20.19137131899989,0 -54.75640252400002,-20.19344144999999,0 -54.753047484,-20.19258484400002,0 -54.74840753500002,-20.19386975299989,0 -54.74448142399999,-20.195725732,0 -54.741554687,-20.19701064099998,0 -54.73891348500001,-20.19679648999989,0 -54.7364150509999,-20.19565434799989,0 -54.733060012,-20.19651095399998,0 -54.73049019400001,-20.19501189399989,0 -54.727492073,-20.194440823,0 -54.725421942,-20.19529742899991,0 -54.72420841699989,-20.19793863099989,0 -54.722281053,-20.2007225999999,0 -54.721709983,-20.203720721,0 -54.71835494300001,-20.20479147799989,0 -54.715570973,-20.20329241799991,0 -54.71314392299998,-20.2026499639999,0 -54.71007441899999,-20.203221034,0 -54.70893227700001,-20.20443455899991,0 -54.70686214599991,-20.20329241799991,0 -54.704649248,-20.204862862,0 -54.70357849,-20.2072185289999,0 -54.70122282400001,-20.2060763869999,0 -54.69836747099999,-20.208788973,0 -54.69616006300001,-20.20960222799991,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Mateira</name>
+			<styleUrl>#style130415198</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII6534">
+					<SimpleData name="nome">Córrego Mateira</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.69616006300001,-20.20960222799991,0 -54.69429859199988,-20.2102880329999,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Mateira</name>
+			<open>1</open>
+			<styleUrl>#style130415198</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII6534">
+					<SimpleData name="nome">Córrego Mateira</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.69429859199988,-20.2102880329999,0 -54.69187154199991,-20.21192986099991,0 -54.68980141099999,-20.2137858409999,0 -54.68708882600001,-20.2147138309999,0 -54.68373378599989,-20.2164984259999,0 -54.68037874600001,-20.21685534499989,0 -54.67752339299991,-20.21557043699991,0 -54.67509634300001,-20.21735503199989,0 -54.67395420099999,-20.22021038499999,0 -54.67102746399998,-20.22327989000001,0 -54.6683862629999,-20.22249466799999,0 -54.665959212,-20.22435064699991,0 -54.663246627,-20.225921092,0 -54.66046265800001,-20.22677769800001,0 -54.65853529399991,-20.22913336399989,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Mateira</name>
+			<open>1</open>
+			<styleUrl>#style130415198</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII6534">
+					<SimpleData name="nome">Córrego Mateira</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.65853529399991,-20.22913336399989,0 -54.65775007199991,-20.23206010099989,0 -54.65660793099991,-20.23427300000001,0 -54.65403811299999,-20.2352723729999,0 -54.650968608,-20.23634313100001,0 -54.65203936599988,-20.239484019,0 -54.65196798200001,-20.24241075599999,0 -54.65018338600002,-20.244552271,0 -54.64954093199999,-20.24833561399991,0 -54.64682834599989,-20.251547886,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Mateira</name>
+			<styleUrl>#style130415198</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII6534">
+					<SimpleData name="nome">Córrego Mateira</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.64682834599989,-20.251547886,0 -54.643758842,-20.25254726,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Mateira</name>
+			<open>1</open>
+			<styleUrl>#style130415198</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII6534">
+					<SimpleData name="nome">Córrego Mateira</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.643758842,-20.25254726,0 -54.6401182659999,-20.251547886,0 -54.63540693399989,-20.251405119,0 -54.63183774199999,-20.251547886,0 -54.629267924,-20.25254726,0 -54.626698107,-20.253618017,0 -54.62562734900001,-20.25518846200001,0 -54.62348924199988,-20.25568510999989,0 -54.62056250500001,-20.256755868,0 -54.61806407099991,-20.25811215999991,0 -54.61420934399999,-20.25761247399989,0 -54.61192506199998,-20.25811215999991,0 -54.61006908199989,-20.25996814000002,0 -54.608070335,-20.26175273599989,0 -54.60571466900002,-20.26125304899989,0 -54.60421560799988,-20.25968260499999,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Rio Mimoso.kml</name>
+	<StyleMap id="LineStyle00210000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#LineStyle002200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#LineStyle0020000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="LineStyle002200">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="LineStyle0020000">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Placemark id="ID_02323">
+		<name>Rio Mimoso</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rio Mimoso</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>NOME</td>
+
+<td>Rio Mimoso</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+		<styleUrl>#LineStyle00210000</styleUrl>
+		<MultiGeometry>
+			<LineString>
+				<coordinates>
+					-56.366943,-21.077736,0 -56.37437199999999,-21.068397,0 -56.384236,-21.069408,0 -56.38742599999999,-21.061026,0 -56.39338000000001,-21.05696,0 -56.40087599999999,-21.05984,0 -56.408734,-21.055375,0 -56.410627,-21.050084,0 -56.409229,-21.046877,0 -56.41346899999999,-21.039685,0 -56.419992,-21.042183,0 -56.42495199999999,-21.036863,0 -56.446826,-21.036151,0 -56.448279,-21.031791,0 -56.45351700000001,-21.035034,0 -56.463222,-21.033231,0 -56.465317,-21.030567,0 -56.470052,-21.031444,0 -56.478036,-21.027236,0 -56.479122,-21.019,0 -56.485924,-21.014393,0 -56.491068,-21.016442,0 -56.49142999999999,-21.009575,0 -56.501828,-21.005202,0 -56.505069,-21.000452,0 -56.521464,-20.999405,0 -56.52619499999999,-20.988237,0 -56.53175199999999,-20.988787,0 -56.551283,-20.969696,0 -56.559095,-20.969421,0 -56.561241,-20.957923,0 -56.56646800000001,-20.953136,0 -56.56674300000001,-20.94934,0 -56.57081400000001,-20.947415,0 -56.572574,-20.953081,0 -56.589465,-20.951706,0 -56.599037,-20.957263,0 -56.602558,-20.961499,0 -56.604264,-20.970192,0 -56.610481,-20.974648,0 -56.620494,-20.974978,0 -56.632543,-20.971182,0 -56.647287,-20.970467,0 -56.651028,-20.972172,0 
+				</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Córrego Piraputanga pedaços.kml</name>
+	<Schema name="hid_trecho_drenagem_l" id="S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII6534">
+		<SimpleField type="string" name="nome"><displayName>&lt;b&gt;nome&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema>
+	<Style id="style11041518">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style1154151608">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style110415180">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="style130415198">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style1154151608</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style110415180</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style11541516080">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="style1304151980">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style11541516080</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style11041518</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Córrego Piraputanga</name>
+		<open>1</open>
+		<Placemark>
+			<name>Rio Paraná</name>
+			<open>1</open>
+			<styleUrl>#style1304151980</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII6534">
+					<SimpleData name="nome"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.922280519,-20.24944162599999,0 -54.9217807599999,-20.25198392999991,0 -54.923205133,-20.25447658199992,0 -54.920783699,-20.256043392,0 -54.92206563499999,-20.25832238800002,0 -54.9209973549999,-20.26074382199991,0 -54.921709542,-20.26280916199991,0 -54.922991477,-20.265159377,0 -54.92142466699989,-20.26672618700002,0 -54.919501764,-20.26950371299989,0 -54.917365205,-20.27149783499991,0 -54.914872553,-20.26907640199988,0 -54.91280721200001,-20.26829299699989,0 -54.910741872,-20.26929005799999,0 -54.908605313,-20.27164027200001,0 -54.909175062,-20.27377683099999,0 -54.908605313,-20.2766255769999,0 -54.90675362899999,-20.278833354,0 -54.90732337799988,-20.28132600699999,0 -54.9093174989999,-20.28346256599999,0 -54.90689606599989,-20.28531424999988,0 -54.907537033,-20.28780690199989,0 -54.908320438,-20.29037077299989,0 -54.90490194399998,-20.291795146,0 -54.9042609759999,-20.294359017,0 -54.90312147799989,-20.296709231,0 -54.9043321949999,-20.29884579,0 -54.90483072499998,-20.30083991199999,0 -54.90198197999999,-20.30397353199991,0 -54.90070004499999,-20.30824664999989,0 -54.899418109,-20.3118787999999,0 -54.89635570799989,-20.31109539499991,0 -54.89421914900003,-20.31216367499999,0 -54.89151284100003,-20.31259098699999,0 -54.89051577999998,-20.31401535899988,0 -54.890373343,-20.31650801099991,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Piraputanga</name>
+			<open>1</open>
+			<styleUrl>#style1304151980</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII6534">
+					<SimpleData name="nome">Córrego Piraputanga</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.890373343,-20.31650801099991,0 -54.88723972299992,-20.3156533879999,0 -54.884960727,-20.31643679300001,0 -54.8843909779999,-20.31871578900001,0 -54.88111492,-20.31971285000001,0 -54.87769642599991,-20.320068943,0 -54.8752037739999,-20.32070991099991,0 -54.87292477800001,-20.3206386919999,0 -54.87114431200001,-20.32348743800001,0 -54.8714291859999,-20.325552778,0 -54.872497466,-20.32776055599989,0 -54.87114431200001,-20.32961223999998,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Piraputanga</name>
+			<open>1</open>
+			<styleUrl>#style1304151980</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII6534">
+					<SimpleData name="nome">Córrego Piraputanga</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.87114431200001,-20.32961223999998,0 -54.872426247,-20.33160636199989,0 -54.87427793200001,-20.330181989,0 -54.87506133700001,-20.33281707899991,0 -54.875773523,-20.33402779499988,0 -54.874135494,-20.3360931359999,0 -54.87541742999999,-20.33922675600001,0 -54.87712667700001,-20.34093600300001,0 -54.87819495699989,-20.34371352900002,0 -54.87869348700001,-20.34613496299989,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Passecá</name>
+			<open>1</open>
+			<styleUrl>#style1304151980</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII6534">
+					<SimpleData name="nome">Córrego Passecá</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.87869348700001,-20.34613496299989,0 -54.88239685599999,-20.34684714899991,0 -54.88588656900001,-20.348057866,0 -54.88731094199989,-20.35012320600001,0 -54.88880653300001,-20.35318560799991,0 -54.888165565,-20.3556070409999,0 -54.88930506299992,-20.358455787,0 -54.88887775199999,-20.36087721999999,0 -54.8896611559999,-20.3628713419999,0 -54.89080065499999,-20.366004962,0 -54.89080065499999,-20.36942345599991,0 -54.889233845,-20.37113270299989,0 -54.887595816,-20.373055606,0 -54.88681241099991,-20.37583313300001,0 -54.8843909779999,-20.37818334799991,0 -54.88389244699988,-20.37989259499989,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Piraputanga</name>
+			<styleUrl>#style130415198</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII6534">
+					<SimpleData name="nome">Córrego Piraputanga</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.85804008299989,-20.39477729000002,0 -54.85483524499989,-20.39556069500001,0 -54.851274313,-20.3957031319999,0 -54.84835434900001,-20.39613044399991,0 -54.845291948,-20.3969850669999,0 -54.842514421,-20.39577435000002,0 -54.84030664400001,-20.39506216399999,0 -54.83824130299998,-20.39641531800002,0 -54.836603275,-20.39840944,0 -54.83468037200002,-20.39962015700002,0 -54.83261503099991,-20.40026112399991,0 -54.833896967,-20.40254012100001,0 -54.834537934,-20.40524642899991,0 -54.83610474399999,-20.40738298799987,0 -54.83681693099999,-20.40951954699989,0 -54.83532133899999,-20.41236829199991,0 -54.8356062139999,-20.414718507,0 -54.8376715539999,-20.41614287999991,0 -54.83959445700001,-20.416855066,0 -54.83945202000002,-20.41927649900001,0 -54.83873983399999,-20.42162671400001,0 -54.836247181,-20.423834492,0 -54.83525012099989,-20.42198280799991,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Piraputanga</name>
+			<open>1</open>
+			<styleUrl>#style1304151980</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII6534">
+					<SimpleData name="nome">Córrego Piraputanga</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.88389244699988,-20.37989259499989,0 -54.88147101399989,-20.3793940649999,0 -54.87869348700001,-20.38046234399999,0 -54.87712667700001,-20.38281255899988,0 -54.87392183899992,-20.3843793689999,0 -54.87121553000001,-20.3833110899999,0 -54.86900775299988,-20.385091555,0 -54.86907897099999,-20.38858126899991,0 -54.865945352,-20.39114513899989,0 -54.86444976,-20.39370901000002,0 -54.861672234,-20.39392266600001,0 -54.85804008299989,-20.39477729000002,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Piraputanga</name>
+			<open>1</open>
+			<styleUrl>#style1304151980</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII6534">
+					<SimpleData name="nome">Córrego Piraputanga</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.83525012099989,-20.42198280799991,0 -54.834110622,-20.420131123,0 -54.831760408,-20.421769152,0 -54.82941019299989,-20.42404814799988,0 -54.82691753999999,-20.42290865000002,0 -54.82435366999988,-20.42248133800001,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Piraputanga</name>
+			<open>1</open>
+			<styleUrl>#style1304151980</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII6534">
+					<SimpleData name="nome">Córrego Piraputanga</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.82435366999988,-20.42248133800001,0 -54.82136248699991,-20.42354961800001,0 -54.81915470900001,-20.42533008299989,0 -54.81623474500001,-20.42711054899998,0 -54.81473915399989,-20.42924710800001,0 -54.81203284599999,-20.429745639,0 -54.811747972,-20.433021696,0 -54.80954019400001,-20.434730943,0 -54.80498220099999,-20.435443129,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<open>1</open>
+			<styleUrl>#style1304151980</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII6534">
+					<SimpleData name="nome"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.80498220099999,-20.435443129,0 -54.802133456,-20.43480216200002,0 -54.799996897,-20.4331641329999,0 -54.796649621,-20.43444606799989,0 -54.79444184399988,-20.43629775299998,0 -54.79223406599991,-20.435870441,0 -54.78988385099999,-20.43729481399991,0 -54.786892668,-20.43679628300001,0 -54.78440001599989,-20.43772212600001,0 -54.78276198799989,-20.43622653400001,0 -54.77962836800001,-20.438078219,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Piraputanga</name>
+			<open>1</open>
+			<styleUrl>#style1304151980</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII6534">
+					<SimpleData name="nome">Córrego Piraputanga</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.77962836800001,-20.438078219,0 -54.77677962300001,-20.43928893500001,0 -54.77414453299999,-20.43864796799988,0 -54.77086847600001,-20.44000112200001,0 -54.76744998199998,-20.44213768099999,0 -54.7643163619999,-20.443419616,0 -54.76153883499997,-20.44427423999999,0 -54.759900806,-20.44648201699989,0 -54.75747937299999,-20.44534251900001,0 -54.75527159500001,-20.44747907800001,0 -54.7522091939999,-20.44705176699989,0 -54.7488619179999,-20.44683811100001,0 -54.746796578,-20.448761014,0 -54.74366295799999,-20.4495444189999,0 -54.74045811999999,-20.4511112289999,0 -54.73732449999989,-20.45303413200001,0 -54.73476062899989,-20.45225072700001,0 -54.73305138200001,-20.44975807500001,0 -54.73176944599999,-20.445556175,0 -54.730060199,-20.44292108600002,0 -54.72721145400001,-20.442992304,0 -54.72486123899989,-20.44242255500002,0 -54.72315199199989,-20.44071330799988,0 -54.721300307,-20.43879040499999,0 -54.72001837199999,-20.43508703600001,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

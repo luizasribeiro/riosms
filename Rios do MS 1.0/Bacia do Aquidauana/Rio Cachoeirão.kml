@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Rio Cachoeirão.kml</name>
+	<StyleMap id="LineStyle0021">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#LineStyle002</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#LineStyle0020</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="LineStyle002">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="LineStyle0020">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Placemark id="ID_03207">
+		<name>Rio Cachoeirão</name>
+		<Snippet maxLines="0"></Snippet>
+		<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rio Cachoeirão</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>NOME</td>
+
+<td>Rio Cachoeirão</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+		<styleUrl>#LineStyle0021</styleUrl>
+		<MultiGeometry>
+			<LineString>
+				<coordinates>
+					-55.205842,-20.585516,0 -55.20476799999999,-20.578708,0 -55.207804,-20.571531,0 -55.213601,-20.56608,0 -55.216568,-20.557178,0 -55.216154,-20.547104,0 -55.219466,-20.543516,0 -55.226505,-20.542757,0 -55.23202499999999,-20.538478,0 -55.241962,-20.531785,0 -55.243549,-20.528818,0 -55.240858,-20.520744,0 -55.245688,-20.51895,0 -55.25383,-20.504735,0 -55.257212,-20.503424,0 -55.256867,-20.49887,0 -55.252243,-20.496248,0 -55.253554,-20.494247,0 -55.25120799999999,-20.490451,0 -55.252864,-20.488657,0 -55.251553,-20.484517,0 -55.25497,-20.479701,0 
+				</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>

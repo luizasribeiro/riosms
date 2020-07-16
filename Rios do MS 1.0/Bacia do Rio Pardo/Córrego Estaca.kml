@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Córrego Estaca.kml</name>
+	<Schema name="hid_trecho_drenagem_l" id="S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+		<SimpleField type="string" name="nome"><displayName>&lt;b&gt;nome&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema>
+	<Style id="style110">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style115">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="style130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style115</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Córrego Estaca</name>
+		<open>1</open>
+		<Placemark>
+			<name>Córrego Estaca Afl-E 3</name>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.4994114949999,-20.33007512800001,0 -54.49965176099991,-20.326755923,0 -54.496968098,-20.32483902099989,0 -54.49399689999999,-20.32263458400001,0 -54.49006725099999,-20.32148444300001,0 -54.48728774400001,-20.3190883149999,0 -54.48671267299989,-20.31467944100001,0 -54.48700020800002,-20.31055810199999,0 -54.48546668700001,-20.30797028500001,0 -54.48345393999988,-20.30509493200001,0 -54.480291052,-20.30317803,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Estaca</name>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome">Córrego Estaca</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.49074432899992,-20.38873300299999,0 -54.48964571200001,-20.38628605400001,0 -54.4904146709999,-20.38305642499989,0 -54.49095294200001,-20.380288172,0 -54.49087604599999,-20.37705854199991,0 -54.49179879799991,-20.3741364969999,0 -54.49256775700001,-20.37098376400002,0 -54.49210638099999,-20.36744655099989,0 -54.49287534099988,-20.36406313,0 -54.492260173,-20.36060281300001,0 -54.49179879799991,-20.35691180799989,0 -54.49325981999988,-20.35383597099999,0 -54.494951531,-20.35014496599999,0 -54.4957204899999,-20.34637706599988,0 -54.496028074,-20.3428398529999,0 -54.496797033,-20.339610224,0 -54.49810426399988,-20.336534387,0 -54.497642888,-20.3333816529999,0 -54.4994114949999,-20.33007512800001,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Estaca</name>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome">Córrego Estaca</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.4994114949999,-20.33007512800001,0 -54.50210285200001,-20.326230332,0 -54.503179396,-20.322308639,0 -54.505640065,-20.31846384299998,0 -54.508254527,-20.31469594200001,0 -54.5089465899999,-20.31054356199999,0 -54.51148415599989,-20.30785220399999,0 -54.51394482599989,-20.30539153399999,0 -54.512406907,-20.30231569699989,0 -54.51271449099989,-20.298701588,0 -54.513406554,-20.29531816699989,0 -54.51432930600001,-20.29224232999999,0 -54.5156365359999,-20.28839753299999,0 -54.5163286,-20.28455273700002,0 -54.51463688899999,-20.281707587,0 -54.51417551399991,-20.27870864599989,0 -54.51348345,-20.2734028269999,0 -54.51256069899989,-20.26886596700001,0 -54.513406554,-20.26617460899999,0 -54.51594412,-20.26279118799988,0 -54.51594412,-20.25979224700001,0 -54.51755893499998,-20.25710088900001,0 -54.51825099799998,-20.25448642800001,0 -54.51725135099999,-20.251256799,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

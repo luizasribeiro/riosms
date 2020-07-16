@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Córrego Gameleira.kml</name>
+	<Schema name="hid_trecho_drenagem_l" id="S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+		<SimpleField type="string" name="nome"><displayName>&lt;b&gt;nome&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema>
+	<Schema name="hid_trecho_drenagem_l" id="S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII0">
+		<SimpleField type="string" name="nome"><displayName>&lt;b&gt;nome&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema>
+	<Style id="style110">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style1100">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="style130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style115</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="style115">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style1150">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style1101">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style1151">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="style1300">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style1150</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style1101</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="style1301">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style1151</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style1100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Córrego Gameleira</name>
+		<open>1</open>
+		<Placemark>
+			<name>Cabeceira do Açude</name>
+			<open>1</open>
+			<styleUrl>#style1300</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<gx:balloonVisibility>1</gx:balloonVisibility>
+			<LineString>
+				<coordinates>
+					-54.69799658999988,-20.67847753099988,0 -54.6948236339999,-20.67868553499988,0 -54.691445094,-20.67861365100001,0 -54.687563368,-20.67789481300001,0 -54.68382540900001,-20.6768165559999,0 -54.68159701100001,-20.67509134400002,0 -54.67944049600001,-20.673941203,0 -54.6753431189999,-20.67350989999989,0 -54.671820811,-20.672575411,0 -54.6685860389999,-20.67034701200001,0 -54.66880169099989,-20.66790296199999,0 -54.66995183200001,-20.6655307959999,0 -54.668729807,-20.66323051399998,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Gameleira</name>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII0">
+					<SimpleData name="nome">Córrego Gameleira</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.63853385999988,-20.603810046,0 -54.637534487,-20.60052638999999,0 -54.63539297200001,-20.5968144309999,0 -54.6336797599999,-20.592816936,0 -54.6318237799999,-20.589747432,0 -54.62918257900001,-20.5863923919999,0 -54.62725521499989,-20.58282320000001,0 -54.62425709499999,-20.58110998800001,0 -54.62090205499991,-20.57946816000001,0 -54.61818946900001,-20.57654142300002,0 -54.614763045,-20.57439990899999,0 -54.61276429799989,-20.57183009100001,0 -54.61076555099998,-20.569974111,0 -54.60762466200001,-20.56833228299999,0 -54.60491207699992,-20.56626215200001,0 -54.600914583,-20.56469170799988,0 -54.59741677499989,-20.56340679899989,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Gameleira</name>
+			<LookAt>
+				<longitude>-54.65100943696812</longitude>
+				<latitude>-20.71025347793958</latitude>
+				<altitude>0</altitude>
+				<heading>0.03435830793606049</heading>
+				<tilt>19.07494193939941</tilt>
+				<range>34960.96234382581</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII0">
+					<SimpleData name="nome">Córrego Gameleira</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.69799658999988,-20.67847753099988,0 -54.69614060999999,-20.67612186499999,0 -54.69478431700001,-20.67283820899998,0 -54.694498782,-20.66976870400001,0 -54.69492708499999,-20.665985361,0 -54.69585507499989,-20.66370107800001,0 -54.69606922599997,-20.66020327099989,0 -54.695284004,-20.65649131200001,0 -54.6943560139999,-20.65363595899989,0 -54.6927141859999,-20.6513516759999,0 -54.6907868229999,-20.64735418200002,0 -54.68821700500001,-20.6441419089999,0 -54.6850761169999,-20.641643475,0 -54.68186384399998,-20.63900227399989,0 -54.679793713,-20.63643245599999,0 -54.67779496599999,-20.633648486,0 -54.67579621899988,-20.63115005200001,0 -54.67372608799999,-20.63036482999999,0 -54.6713704219999,-20.63015067899992,0 -54.67015689600002,-20.62743809299999,0 -54.665945251,-20.6252251949999,0 -54.66237605899989,-20.62472550800002,0 -54.65980624099999,-20.62251260900002,0 -54.65630843399999,-20.62037109399988,0 -54.65338169699999,-20.61822957899989,0 -54.65109741399991,-20.61523145900001,0 -54.647813758,-20.613232711,0 -54.6458863949999,-20.61087704499991,0 -54.64160336499998,-20.60630847999991,0 -54.63853385999988,-20.603810046,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Gameleira</name>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII0">
+					<SimpleData name="nome">Córrego Gameleira</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.704181568,-20.6885284689999,0 -54.70142301399989,-20.68732912600001,0 -54.69963841799989,-20.684402389,0 -54.69935288199999,-20.68126149999989,0 -54.69799658999988,-20.67847753099988,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Cabeceira dos Bois</name>
+			<open>1</open>
+			<styleUrl>#style1301</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.63853385999988,-20.603810046,0 -54.63529199799999,-20.60505278900001,0 -54.6302601309999,-20.60498090499991,0 -54.62594710199989,-20.60426206700001,0 -54.62350305199991,-20.605124673,0 -54.61926190599999,-20.6054840919999,0 -54.61581148299999,-20.6036151129999,0 -54.61329554899998,-20.60224931999988,0 -54.6102045449999,-20.6003803409999,0 -54.60704165700001,-20.599949038,0 -54.60402253699991,-20.59887078,0 -54.60251297599999,-20.59707368499988,0 -54.59999704299999,-20.59470151900002,0 -54.598199947,-20.5913948629999,0 -54.59704980600001,-20.58772878799991,0 -54.59374314999998,-20.585931693,0 -54.591370984,-20.58427836499991,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

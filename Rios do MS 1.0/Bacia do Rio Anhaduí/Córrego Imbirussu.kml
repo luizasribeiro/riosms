@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Córrego Imbirussu.kml</name>
+	<Schema name="hid_trecho_drenagem_l" id="S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+		<SimpleField type="string" name="nome"><displayName>&lt;b&gt;nome&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema>
+	<Style id="style110">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style115">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="style130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style115</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Córrego Imbirussu</name>
+		<open>1</open>
+		<Placemark>
+			<name>Córrego Imbirussu</name>
+			<open>1</open>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome">Córrego Imbiruçu</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.745877284,-20.51800468199999,0 -54.7439288859999,-20.51613422,0 -54.7427598469999,-20.51356233500002,0 -54.7410452569999,-20.51122425700001,0 -54.738239564,-20.50904205199991,0 -54.73699258999989,-20.50631429399991,0 -54.73387515300002,-20.503508601,0 -54.73130326800001,-20.50070290799991,0 -54.72919899800001,-20.49836483099988,0 -54.72717266399998,-20.49516945799999,0 -54.7243669709999,-20.4925196369999,0 -54.72327586799999,-20.49002568799989,0 -54.7207819189999,-20.48799935400001,0 -54.71813209799999,-20.48418049399991,0 -54.71696305899999,-20.48020576199999,0 -54.71571608400001,-20.47662070999999,0 -54.71446910899989,-20.47350327299988,0 -54.714624981,-20.46976234900001,0 -54.712910391,-20.46586555300001,0 -54.71033850599999,-20.46360541199992,0 -54.70722106900001,-20.46220256499989,0 -54.70550647900001,-20.45885132099989,0 -54.70285665800001,-20.45588975600001,0 -54.70081435899989,-20.45342072400002,0 -54.698172628,-20.4509407319999,0 -54.69574654899997,-20.4489459559999,0 -54.694398728,-20.448514654,0 -54.6912717819999,-20.44916160799992,0 -54.68695875200002,-20.4494311719999,0 -54.685718757,-20.4479755249999,0 -54.68437093499989,-20.44533379500001,0 -54.68052215499988,-20.44160781700001,0 -54.67601743599988,-20.438444928,0 -54.67304623799999,-20.43652802700001,0 -54.66854151900001,-20.435186195,0 -54.665953701,-20.4323108419999,0 -54.66461186999991,-20.42991471499989,0 -54.66413264499989,-20.42646429199991,0 -54.66231158799999,-20.42349309400002,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Imbirussu</name>
+			<open>1</open>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome">Rio Inhanduí</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.72304205999999,-20.58043135199989,0 -54.72335380399991,-20.57778153100001,0 -54.72249650899987,-20.574664094,0 -54.72202889299999,-20.57170252899991,0 -54.722184765,-20.56850715699989,0 -54.7231979319999,-20.56538971999991,0 -54.7256918809999,-20.56320751399988,0 -54.727874087,-20.5600900769999,0 -54.72943280600002,-20.55751819200001,0 -54.732160563,-20.55611534600001,0 -54.73231643400001,-20.55362139600001,0 -54.73325166499999,-20.550348088,0 -54.733641345,-20.546451292,0 -54.73574561500001,-20.54411321399991,0 -54.73870717999988,-20.54200894499998,0 -54.741512873,-20.539826739,0 -54.74182461600001,-20.53678723799991,0 -54.74408475799999,-20.53437122500001,0 -54.74330539900001,-20.532111083,0 -54.74283778300002,-20.52930538999991,0 -54.744864117,-20.52603208199999,0 -54.74424063000001,-20.522992581,0 -54.74642283599998,-20.520576567,0 -54.745877284,-20.51800468199999,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Cabeceira Gabiroba</name>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.745877284,-20.51800468199999,0 -54.74939277099999,-20.51516463600002,0 -54.75332242,-20.51181005800002,0 -54.75801883,-20.5094139309999,0 -54.76185263299988,-20.50740118399989,0 -54.76501552099999,-20.50912639500001,0 -54.77047869200001,-20.50912639500001,0 -54.772683129,-20.51094745199999,0 -54.77718784800002,-20.51094745199999,0 -54.780925807,-20.512960199,0 -54.78543052600001,-20.5141103399999,0 -54.789551865,-20.5143978749999,0 -54.79261890800001,-20.51660231200001,0 -54.79702778199999,-20.51861505900002,0 -54.801340812,-20.51928597499989,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Imbirussu</name>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome">Córrego do Mato</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.731770883,-20.59360252199999,0 -54.730056293,-20.59017334200001,0 -54.7270947279999,-20.58775732800001,0 -54.72506839399988,-20.58541925099998,0 -54.72311999600001,-20.58339291700001,0 -54.72304205999999,-20.58043135199989,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego do Mato</name>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome"></SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.731770883,-20.59360252199999,0 -54.73478171900001,-20.59065980399989,0 -54.73765707199991,-20.58845536699991,0 -54.74120334000001,-20.58682600099999,0 -54.74273686200001,-20.5830880419999,0 -54.74513298900001,-20.57992515399999,0 -54.74858341299988,-20.5781040969999,0 -54.75299228699998,-20.57733733600001,0 -54.75730531599999,-20.57791240699991,0 -54.760564049,-20.57762487199989,0 -54.763439402,-20.57436613899989,0 -54.767273206,-20.57206585599991,0 -54.768806727,-20.56775282699991,0 -54.772448841,-20.56478162900001,0 -54.77561172899991,-20.561139516,0 -54.77781616600001,-20.558360008,0 -54.781362434,-20.55730571200002,0 -54.78471701300001,-20.55807247300001,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Imbirussu Foz</name>
+			<styleUrl>#style130</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+					<SimpleData name="nome">Rio Inhanduí</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.72686092,-20.60147405,0 -54.72795202299989,-20.59913597199987,0 -54.729043126,-20.59742138199992,0 -54.731147396,-20.59555091999991,0 -54.731770883,-20.59360252199999,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

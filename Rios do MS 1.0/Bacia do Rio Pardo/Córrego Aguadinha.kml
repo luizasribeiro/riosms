@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Córrego Aguadinha.kml</name>
+	<Schema name="hid_trecho_drenagem_l" id="S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+		<SimpleField type="string" name="nome"><displayName>&lt;b&gt;nome&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema>
+	<Style id="style110">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style115">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="style130">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style115</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>Córrego Aguadinha</name>
+		<styleUrl>#style130</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII">
+				<SimpleData name="nome"></SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				-54.43785635899999,-20.4654574109999,0 -54.441242541,-20.46470449000001,0 -54.4448367319999,-20.46463260600002,0 -54.447927737,-20.465567096,0 -54.4512343919999,-20.467076656,0 -54.4544691639999,-20.46621404999999,0 -54.45770393599999,-20.464345071,0 -54.460507405,-20.46297927800001,0 -54.463598409,-20.46319492999991,0 -54.46611434299999,-20.46420130299998,0 -54.46978041800001,-20.4645607219999,0 -54.473446493,-20.4644169549999,0 -54.476465613,-20.463266814,0 -54.47984415299991,-20.46377,0 -54.4826476219999,-20.46484825799999,0 -54.48545109099998,-20.46463260600002,0 -54.4883264429999,-20.46621404999999,0 -54.4900516549999,-20.46786737799992,0 -54.492064402,-20.4704551959999,0 -54.4922800529999,-20.47304301299991,0 -54.495802361,-20.4739056189999,0 -54.49874959700001,-20.47419315400001,0 -54.50097799600001,-20.47577459799991,0 -54.50327827800001,-20.4788656019999,0 -54.50615363099999,-20.478649951,0 -54.5085257969999,-20.48059081400002,0 -54.5106104279999,-20.48224414199998,0 -54.51312636099991,-20.483466167,0 -54.51377331600002,-20.485910217,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

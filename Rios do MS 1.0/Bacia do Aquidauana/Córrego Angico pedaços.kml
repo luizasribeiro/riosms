@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Córrego Angico.kml</name>
+	<Schema name="hid_trecho_drenagem_l" id="S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII6534">
+		<SimpleField type="string" name="nome"><displayName>&lt;b&gt;nome&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema>
+	<Style id="style11041518">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="style1154151608">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>nome</b></td><td>$[hid_trecho_drenagem_l/nome]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="style130415198">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style1154151608</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style11041518</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Córrego Angico</name>
+		<Placemark>
+			<name>Córrego Angico</name>
+			<open>1</open>
+			<styleUrl>#style130415198</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII6534">
+					<SimpleData name="nome">Córrego Angico</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.91420860300001,-20.20777122399989,0 -54.91193144399989,-20.20698490799998,0 -54.9089617229999,-20.20792652699989,0 -54.906209298,-20.20850598499991,0 -54.903456874,-20.209737333,0 -54.90121147499999,-20.21009949399998,0 -54.90005255899998,-20.2075643659999,0 -54.8975898639999,-20.205463831,0 -54.8947650069999,-20.20488437399998,0 -54.89244717599998,-20.2068400439999,0 -54.89027420899999,-20.20995462900001,0 -54.88744935200001,-20.21082381599998,0 -54.88563854599989,-20.20850598499991,0 -54.883103418,-20.2081438239999,0 -54.880713155,-20.20944760399991,0 -54.87825045900002,-20.20857841700001,0 -54.87542560299989,-20.2068400439999,0 -54.8729629069999,-20.20640545000001,0 -54.87202128800002,-20.20372545800001,0 -54.87006561800001,-20.2014800589999,0 -54.86861697300001,-20.19995898199988,0 -54.866081846,-20.19923465999988,0 -54.8629672599999,-20.19974168600001,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Angico</name>
+			<open>1</open>
+			<styleUrl>#style130415198</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII6534">
+					<SimpleData name="nome">Córrego Angico</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.8629672599999,-20.19974168600001,0 -54.86260509899989,-20.19561304900001,0 -54.86151861499999,-20.19293305600001,0 -54.86101159000001,-20.18952874199991,0 -54.85992510599991,-20.1872833429999,0 -54.85833159699999,-20.18525524099992,0 -54.85970781000001,-20.18206822299991,0 -54.86072186099988,-20.17909850099988,0 -54.86057699599998,-20.175694187,0 -54.85970781000001,-20.17286933,0 -54.85782457200002,-20.17076879500003,0 -54.85413052799998,-20.16982717699989,0 -54.8513781039999,-20.16837853199999,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Córrego Angico</name>
+			<open>1</open>
+			<styleUrl>#style130415198</styleUrl>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_hid_trecho_drenagem_l_SSSSSSDDDDSSSII6534">
+					<SimpleData name="nome">Córrego Angico</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<LineString>
+				<coordinates>
+					-54.8513781039999,-20.16837853199999,0 -54.847177035,-20.16888555799988,0 -54.84413488099989,-20.17026177,0 -54.84181705,-20.17192771099999,0 -54.83863003199999,-20.173810949,0 -54.835877608,-20.172145008,0 -54.8342116659999,-20.16997204099991,0 -54.83145924199989,-20.16982717699989,0 -54.82870681699998,-20.16903042199992,0 -54.8268235789999,-20.16685745500002,0 -54.82436088399999,-20.16613313299998,0 -54.82175332399999,-20.16707475199999,0 -54.81921819600001,-20.16830609999992,0 -54.81827657699989,-20.16997204099991,0 -54.81733495799988,-20.17250716899999,0 -54.8158138809999,-20.17533202600001,0 -54.81298902399991,-20.174317974,0 -54.81009173499999,-20.17410067799989,0 -54.80683228500001,-20.17402824600001,0 -54.80386256400002,-20.17460770299987,0 -54.80234148700001,-20.1736660839999,0 -54.80132743600002,-20.17069636299991,0 -54.798430147,-20.169537448,0 -54.79603988400001,-20.17250716899999,0 -54.792418272,-20.1724347369999,0 -54.788941526,-20.1722174399999,0 -54.78582693999991,-20.1742455419999,0 -54.782132896,-20.175114729,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

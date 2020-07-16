@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Rio Abobral.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Rio Abobral</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-57.25608207230457,-19.31438301601068,0 -57.25138105057498,-19.3090063871348,0 -57.24031527656251,-19.30824703014681,0 -57.23490232539405,-19.3199863970498,0 -57.22439719681698,-19.32246908486301,0 -57.22203798638167,-19.35017901571302,0 -57.2276488117317,-19.36113559611648,0 -57.20065248660566,-19.38343799677197,0 -57.17482072284778,-19.4036256631037,0 -57.15055659362334,-19.41173611131007,0 -57.13418174701504,-19.42890386496724,0 -57.11773114607927,-19.4415625596024,0 -57.08759199221156,-19.44399734734748,0 -57.07831363046873,-19.44179363676479,0 -57.065401543147,-19.43108171699281,0 -57.05420728260445,-19.43185269468938,0 -57.04829406255217,-19.43301847138167,0 -57.04516703102328,-19.44456248563602,0 -57.02889456818024,-19.44788912561658,0 -57.02675622517347,-19.45926366332405,0 -57.00501224135983,-19.46063908749577,0 -56.99887163277502,-19.46492032828534,0 -56.98719266627033,-19.47765754830473,0 -56.97310935706285,-19.48405594266319,0 -56.95741853730971,-19.49358296756797,0 -56.94669580792154,-19.49294184113696,0 -56.92782102373911,-19.51043148544239,0 -56.92798275420341,-19.52224500265089,0 -56.92089011291607,-19.52264739625422,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
